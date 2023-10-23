@@ -3,8 +3,8 @@
 This page is used to inform users regarding our policies with the collection, use, and disclosure of Personal Information and Data when using our application ("Bot").
 
 # References and Context
-- "Bot" or "application" refers to "TechBot".
-- "TechBot" refers to our Discord Bot "TechBot".
+- **"Bot"** or **"application"** refers to "TechBot".
+- **"TechBot"** refers to our Discord Bot "TechBot".
 
 ## Consent
 
@@ -18,7 +18,7 @@ Access to Data is only permitted to Bot's developers, and only in the scope requ
 
 ## Storage of Data
 
-Data is stored in a BDFD ("Bot Designer For Discord") database. The database is secured to prevent external access, however no guarantee is provided and the Bot owners assume no liability for the unintentional or malicious breach of Data. In the event of an unauthorised Data access, users will be notified through the Discord client application.
+Data is stored in the BDFD ("Bot Designer For Discord") database. The database is secured to prevent external access, however no guarantee is provided and the Bot owners assume no liability for the unintentional or malicious breach of Data. In the event of an unauthorised Data access, users will be notified through the Discord client application.
 
 ## User Rights
 
