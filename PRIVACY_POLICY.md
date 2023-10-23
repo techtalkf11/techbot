@@ -1,6 +1,10 @@
 # Privacy Policy
 This page is used to inform users regarding our policies with the collection, use, and disclosure of Personal Information and Data when using our application ("Bot").
 
+# References and Context
+- "Bot" or "application" refers to "TechBot".
+- "TechBot" refers to our Discord Bot "TechBot".
+
 ## Consent
 
 By using our Discord Bot, you hereby consent to our Privacy Policy and agree to its terms.
@@ -9,7 +13,7 @@ The use of this application ("Bot") in a server requires the collection of some 
 
 ## Access to Data
 
-Access to Data is only permitted to Bot's developers, and only in the scope required for the development, testing, and implementation of features for the Bot. Data is not sold, provided to, or shared with any third party, except where required by law or a Terms of Service agreement. You can view the data upon request from `@nhcarrigan`.
+Access to Data is only permitted to Bot's developers, and only in the scope required for the development, testing, and implementation of features for the Bot. Data is not sold, provided to, or shared with any third party, except where required by law or a Terms of Service agreement. You can view the data upon request from `@techtalk11`.
 
 ## Storage of Data
 
@@ -25,4 +29,4 @@ The use of the Bot is not permitted for minors under the age of 13, or under the
 
 ## Questions
 
-If you have any questions or are concerned about what data might be being stored from your account contact `@nhcarrigan`. For more information check the [Discord Terms Of Service](https://discord.com/terms).
+If you have any questions or are concerned about what data might be being stored from your account contact `@techtalk11`. For more information check the [Discord Terms Of Service](https://discord.com/terms).
