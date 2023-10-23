@@ -1,4 +1,5 @@
 # Privacy Policy
+### In effect on October 23, 2023. Last updated on October 23, 2023.
 This page is used to inform users regarding our policies with the collection, use, and disclosure of Personal Information and Data when using our application ("Bot").
 
 # References and Context
@@ -7,7 +8,7 @@ This page is used to inform users regarding our policies with the collection, us
 
 ## Consent
 
-By using our Discord Bot, you hereby consent to our Privacy Policy and agree to its terms.
+By using our Bot, you hereby consent to our Privacy Policy and agree to its terms.
 
 The use of this application ("Bot") in a server requires the collection of some specific user data ("Data"). The Data collected includes, but is not limited to Discord user ID values. The usage of the Bot is considered an agreement to the terms of this Policy.
 
